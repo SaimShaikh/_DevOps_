@@ -93,7 +93,7 @@ Write Code          →      Test Code         →     Deploy & Run
 ---
 
 ## ✨ After DevOps: Modern Approach
-<img width="2400" height="1600" alt="image" src="https://github.com/user-attachments/assets/35aab9b5-ca27-4c52-8b13-f2ec4dd50a4b" />
+
 
 ### How It Works (The New Way)
 
@@ -293,7 +293,7 @@ kubectl apply -f deployment.yaml
 ---
 
 ## 📈 DevOps Lifecycle Diagram
-
+<img width="2400" height="1600" alt="image" src="https://github.com/user-attachments/assets/35aab9b5-ca27-4c52-8b13-f2ec4dd50a4b" />
 The DevOps process is **continuous and circular**, not linear:
 
 ```
