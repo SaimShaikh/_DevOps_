@@ -39,7 +39,9 @@ Imagine you work at an online shopping company. The traditional way they release
 
 ## 🔍 What is DevOps?
 
-**DevOps** is a practice that combines **Development** (Dev) and **Operations** (Ops) teams to work together as ONE team. Instead of developers and operations people working separately, they collaborate throughout the entire software delivery process.
+**DevOps** is a culture and set of practices where development and operations teams work together to automate the software delivery process.
+It helps organizations deliver applications faster, with better quality and reliability, by using automation, continuous integration, continuous deployment, monitoring, and feedback.
+The main goal of DevOps is faster releases, fewer failures, and better collaboration.
 
 ### Simple Explanation:
 Think of DevOps like a restaurant where:
