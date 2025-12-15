@@ -31,7 +31,9 @@ SDLC has **6 main layers (phases)**. Let's understand each one:
 **What happens here?**
 
 This is where the journey begins. The team sits down and thinks about:
-- What problem does this software solve?
+- Understand what the client wants
+- Gather business and technical requirements
+- Document everything clearly
 - Who will use it?
 - What features should it have?
 - What resources (money, people, time) do we need?
