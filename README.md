@@ -54,7 +54,9 @@ Think of DevOps like a restaurant where:
 ---
 
 ## 🏢 Before DevOps: Traditional Approach
-<img width="2400" height="1600" alt="image" src="https://github.com/user-attachments/assets/37cc0719-a97d-4005-8000-468a58b5b45b" />
+
+<img width="983" height="1295" alt="image" src="https://github.com/user-attachments/assets/9f0fb238-5bd9-4e30-b7ce-77f678ef853f" />
+
 
 ### How It Worked (The Old Way)
 
@@ -93,6 +95,7 @@ Write Code          →      Test Code         →     Deploy & Run
 ---
 
 ## ✨ After DevOps: Modern Approach
+<img width="878" height="1192" alt="image" src="https://github.com/user-attachments/assets/7dd45e37-0d87-44d6-9742-11d3e515d568" />
 
 
 ### How It Works (The New Way)
