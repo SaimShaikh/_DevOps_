@@ -334,11 +334,9 @@ For example, when working on a feature, we break it into smaller tasks, use feat
 
 ---
 
-## Summary
+## How is DevOps different from agile methodology?
+**“Agile and DevOps solve different problems.
+Agile focuses on how we develop software—working in small sprints, getting quick feedback, and adapting to change.
+DevOps focuses on how we deliver and run that software—using automation, CI/CD, monitoring, and shared ownership to release faster and more reliably.
 
-- **Agile** is a way of working that focuses on **small, frequent deliveries**, **feedback**, and **continuous improvement**.
-- It replaces big upfront planning with **short cycles** (sprints) and **regular feedback**.
-- Frameworks like **Scrum** and **Kanban** are popular ways to practice Agile.
-- Agile works best when the team and organization adopt the **mindset**, not just the meetings.
-
-Agile helps teams build products that users actually want, with less waste, more collaboration, and faster learning.
+In real projects, Agile helps us build the right thing, and DevOps helps us ship it safely and continuously. They work together, not as alternatives.”**
